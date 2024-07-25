@@ -62,6 +62,7 @@ git clone --recurse-submodules -j8 git@github.com:sayands/sgaligner.git
 cd sgaligner
 conda env create -f req.yml
 ```
+> Note: Please follow [PointCloudTransformer](https://github.com/qinglew/PointCloudTransformer) repository for installing pointnet2_ops_lib if you want to use PCT as the backbone.
 
 Please follow the submodule for additional installation requirements and setup of [GeoTransformer](https://github.com/sayands/GeoTransformer).
 
