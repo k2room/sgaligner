@@ -185,11 +185,13 @@ We provide detailed results and comparisons here.
 
 ## BibTeX :pray:
 ```
-@article{sarkar2023sgaligner,
-      title={SGAligner : 3D Scene Alignment with Scene Graphs}, 
-      author={Sayan Deb Sarkar and Ondrej Miksik and Marc Pollefeys and Daniel Barath and Iro Armeni},
-      journal={Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
-      year={2023}
+@inproceedings{Sarkar_2023_ICCV,
+    author    = {Sarkar, Sayan Deb and Miksik, Ondrej and Pollefeys, Marc and Barath, Daniel and Armeni, Iro},
+    title     = {SGAligner: 3D Scene Alignment with Scene Graphs},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {21927-21937}
 }
 ```
 ## Acknowledgments :recycle:
