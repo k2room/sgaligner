@@ -184,7 +184,7 @@ We provide detailed results and comparisons here.
 
 
 ## BibTeX :pray:
-```
+```bibtex
 @inproceedings{Sarkar_2023_ICCV,
     author    = {Sarkar, Sayan Deb and Miksik, Ondrej and Pollefeys, Marc and Barath, Daniel and Armeni, Iro},
     title     = {SGAligner: 3D Scene Alignment with Scene Graphs},
