@@ -18,7 +18,7 @@ SGAligner aligns 3D scene graphs of environments using multi-modal learning and 
 
 </div>
 
-[[Project Webpage](https://sayandebsarkar.com/sgaligner/)]
+[[Project Webpage](https://sayands.github.io/sgaligner/)]
 [[Paper](https://arxiv.org/abs/2304.14880)]
 
 
