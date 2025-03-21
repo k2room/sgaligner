@@ -2,13 +2,13 @@ seed: 42
 num_workers : 4
 
 model_name    : 'sgaligner'
-modules       : ['point', 'gat', 'rel']
+modules       : ['point', 'gat', 'rel', ''] # ['point', 'gat', 'rel']
 use_predicted : True
 registration  : True
 
 data :
   name            : Scan3R
-  root_dir        : /media/sdebsarkar/extra-hdd/datasets/3RScan
+  root_dir        : /home/main/workspace/k2room1/sgaligner/3RScan/data/3RScan/data/3RScan/
   label_file_name : labels.instances.align.annotated.v2.ply
   pred_subfix     : inseg.ply
 
